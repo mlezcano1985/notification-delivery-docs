@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="610px" preserveAspectRatio="none" style="width:831px;height:610px;background:#FFFFFF;" version="1.1" viewBox="0 0 831 610" width="831px" zoomAndPan="magnify"><defs><filter height="300%" id="f7pgzesqqqj01" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[7b30460008fc71f9986330c33ee2d290]
+entity gateway--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="146" x="58.6315" y="165.2305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="68.6315" y="188.7657">API NOTIFICATION</text><!--MD5=[799e9543975076390d2a6ceafec8df6c]
+entity queue--><path d="M330.1315,170.2305 L387.1315,170.2305 C392.1315,170.2305 392.1315,183.4747 392.1315,183.4747 C392.1315,183.4747 392.1315,196.7188 387.1315,196.7188 L330.1315,196.7188 C325.1315,196.7188 325.1315,183.4747 325.1315,183.4747 C325.1315,183.4747 325.1315,170.2305 330.1315,170.2305 " fill="#FEFECE" filter="url(#f7pgzesqqqj01)" style="stroke:#A80036;stroke-width:1.5;"/><path d="M387.1315,170.2305 C382.1315,170.2305 382.1315,183.4747 382.1315,183.4747 C382.1315,196.7188 387.1315,196.7188 387.1315,196.7188 " fill="none" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="330.1315" y="188.7657">QUEUE</text><!--MD5=[b1a7855e6585e68a7a22c3cffb63dc0f]
+entity webhook--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="89" x="427.1315" y="165.2305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="437.1315" y="188.7657">WEBHOOK</text><!--MD5=[23a233dfffa84b7b9dc87c64054cec4b]
+entity mail_api--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="87" x="263.1315" y="297.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="273.1315" y="321.2657">EMAIL API</text><!--MD5=[83fdf0058fa7dee6e9b0eadd8acd7b9f]
+entity mobile_api--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="96" x="423.6315" y="297.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="433.6315" y="321.2657">MOBILE API</text><!--MD5=[f424ff299668fed4b3b7d3cb3b72e11b]
+entity slack_api--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="90" x="609.6315" y="297.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="619.6315" y="321.2657">SLACK API</text><!--MD5=[0f0501bbac481b7f12b408eea8d533d5]
+entity mail_service--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="121" x="188.1315" y="425.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="198.1315" y="449.2657">EMAIL SERVICE</text><!--MD5=[02ae332cba876da244ee6b86106eff9e]
+entity mobile_service--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="130" x="373.6315" y="425.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="383.6315" y="449.2657">MOBILE SERVICE</text><!--MD5=[c2445b405568889b73533a0da2b63820]
+entity slack--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="36.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="64" x="753.6315" y="425.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="763.6315" y="449.2657">SLACK</text><!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db--><path d="M630.1315,170.7305 C630.1315,160.7305 676.6315,160.7305 676.6315,160.7305 C676.6315,160.7305 723.1315,160.7305 723.1315,170.7305 L723.1315,196.2188 C723.1315,206.2188 676.6315,206.2188 676.6315,206.2188 C676.6315,206.2188 630.1315,206.2188 630.1315,196.2188 L630.1315,170.7305 " fill="#FEFECE" filter="url(#f7pgzesqqqj01)" style="stroke:#000000;stroke-width:1.5;"/><path d="M630.1315,170.7305 C630.1315,180.7305 676.6315,180.7305 676.6315,180.7305 C676.6315,180.7305 723.1315,180.7305 723.1315,170.7305 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="640.1315" y="198.2657">DATABASE</text><!--MD5=[e9b32bde77be40a89ab3d0cb042f1407]
+entity assets--><rect fill="#FEFECE" filter="url(#f7pgzesqqqj01)" height="32.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="67" x="543.1315" y="429.7305"/><rect fill="#FEFECE" height="32.4883" rx="7.5" ry="7.5" style="stroke:#A80036;stroke-width:1.5;" width="67" x="539.1315" y="425.7305"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="547.1315" y="447.2657">ASSETS</text><!--MD5=[0aac872f208ab6f5f7887aae079fb447]
+entity c1--><path d="M518.3635,532.0329 C521.042,526.3008 526.485,525.6676 529.8981,531.2864 C532.5971,524.6875 537.404,523.9671 541.869,529.5511 C543.6546,524.3278 547.796,523.0277 552.0098,526.8196 C554.9463,521.1535 560.2829,520.3124 564.6563,525.0777 C568.0015,519.2143 572.2827,518.0148 576.5803,524.1296 C580.2639,518.9755 584.7928,520.4415 586.9984,525.6199 C591.4659,520.8926 596.5073,521.4043 598.7245,527.9589 C603.2105,522.4356 607.0147,523.1897 609.9397,529.4452 C614.0576,523.6768 618.8953,524.0729 622.8367,529.6459 C626.8271,525.0558 631.3594,527.7125 632.6522,532.4766 C641.3978,534.6671 642.5534,542.9689 636.5763,548.7169 C644.0697,551.8973 645.9919,556.2387 640.1422,562.7981 C646.8873,569.6162 645.7432,577.1387 636.3625,580.5169 C642.2175,585.802 641.8253,593.4148 633.6039,596.2284 C629.8408,601.8236 624.1754,601.2413 622.0219,594.6932 C618.8789,600.675 614.6046,600.7717 610.3454,595.8933 C607.9597,602.1644 602.4773,603.2953 598.4098,597.5661 C594.3934,602.0832 591.0103,602.1852 587.5514,596.9455 C584.8755,602.927 579.1686,603.8053 575.309,598.1957 C571.7643,602.0094 566.8042,602.4701 564.719,596.5997 C561.4391,602.036 555.7573,601.3995 552.7496,596.2908 C548.8727,603.187 545.0181,603.0348 540.2864,597.1225 C536.4095,602.2514 531.5475,601.1459 529.0951,595.6255 C525.0523,602.2207 520.831,600.8104 516.7286,595.6885 C508.9467,590.5222 508.7649,584.4099 515.6632,578.342 C509.3528,574.231 508.8918,568.4224 514.8005,563.5965 C507.5085,557.5401 508.8237,551.9095 517.3349,548.5075 C510.0708,543.1592 509.5971,536.3803 518.3635,532.0329 " fill="#FEFECE" filter="url(#f7pgzesqqqj01)" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="523.6315" y="551.2657">- Attachments.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="523.6315" y="567.754">- Templates.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="523.6315" y="584.2423">- Etc.</text><!--MD5=[3d2111c8a0a2d14b8769ddc11704380e]
+entity c2--><path d="M21.4454,31.1441 C24.8924,22.8332 30.1973,21.8018 35.9316,29.0089 C40.8161,21.1113 46.1102,20.7576 52.3044,27.5491 C55.6521,19.1452 62.009,17.9346 68.4168,24.1844 C72.697,16.7572 79.3144,16.6737 84.7062,22.8536 C88.8372,15.8784 96.0456,16.7258 99.6387,23.4404 C104.3204,16.2912 111.2409,15.4857 116.6923,22.5147 C120.9516,13.9418 127.5326,11.7984 133.7641,20.574 C138.3769,13.8774 145.9288,14.4869 149.2255,22.0054 C153.1734,13.9253 161.3762,14.1472 165.9517,21.317 C173.5607,14.6087 178.7101,16.6193 182.4717,25.4161 C186.1618,19.2966 192.9991,19.1914 196.2535,25.8847 C202.0716,18.0667 209.9338,19.2255 214.7464,27.0717 C219.6038,20.5307 227.2834,20.1891 230.6736,28.6312 C235.6785,20.7577 242.9016,22.2697 246.9827,29.6209 C256.7329,33.1866 256.7034,38.1509 250.3851,45.2212 C261.4778,46.4009 265.2708,54.0629 258.1176,63.1235 C262.9343,71.3076 259.1353,75.8883 250.5164,76.3526 C258.3044,84.8516 254.8185,90.112 245.8393,94.2225 C240.8073,101.5193 235.3935,101.4845 229.8177,94.8478 C225.0885,103.9498 218.909,103.4792 213.457,95.5418 C210.5234,103.0398 203.9645,104.8489 198.8474,97.7232 C194.1179,105.7062 187.227,108.0189 181.4314,98.8029 C178.0714,106.4437 171.6014,109.0283 165.3554,101.9563 C161.2306,110.0194 153.5495,109.0623 148.9764,102.4568 C145.0654,109.6858 138.3059,111.4809 133.4618,103.4026 C128.4405,112.2476 122.5132,112.3539 117.2468,103.6289 C111.024,110.1589 105.3132,107.8596 101.7139,100.6606 C95.6851,108.6525 88.7911,107.095 84.4657,98.851 C79.5074,107.7005 72.0635,105.3602 67.9118,98.026 C62.7847,104.5972 58.2798,104.6474 53.1295,98.052 C47.6229,106.645 39.3629,104.9782 36.0148,95.955 C30.6762,102.3535 23.5886,100.2021 21.3673,92.676 C12.2569,91.2156 9.3279,85.173 15.5657,77.7479 C6.7476,73.6696 6.329,67.5054 12.8488,60.9469 C6,53.9021 10.2508,47.2163 18.2665,45.3274 C11.9695,39.2966 13.1409,33.9023 21.4454,31.1441 " fill="#FEFECE" filter="url(#f7pgzesqqqj01)" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="25.6315" y="49.2657">Recieve a list of notifications to</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="25.6315" y="65.754">send by channel</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="25.6315" y="82.2423">(email, mobile, etc.)</text><!--MD5=[6186517b0f979c270c1f201d839d1352]
+entity c3--><path d="M698.4905,28.7783 C702.2142,22.0177 706.7345,22.448 710.777,28.4717 C712.3944,22.4715 716.9963,22.9028 720.6886,26.2781 C723.7641,20.784 727.7188,19.2224 732.3087,24.6695 C735.1835,17.7907 739.9375,16.6154 744.7655,22.8082 C747.6517,16.7937 752.2785,17.2668 756.0993,21.8044 C760.5327,17.647 765.9757,18.4681 768.0352,24.567 C771.6285,20.217 775.519,18.7176 778.9512,24.7365 C783.314,19.4251 789.2163,20.566 790.6702,27.5166 C794.1025,22.1763 798.9731,22.8342 801.6371,28.2965 C804.8864,23.3898 810.9534,22.1147 813.7829,28.7386 C822.7309,32.7084 822.6509,41.0583 814.8384,46.05 C821.8539,49.0795 822.8629,56.7961 816.9428,61.5786 C823.7683,66.3209 824.8822,74.712 815.6884,78.2489 C823.2556,83.6941 822.4861,89.5743 814.2868,93.578 C811.0636,99.2407 805.1429,99.946 801.5827,93.9451 C798.8998,100.1679 795.1028,99.2073 791.0664,95.3585 C788.0048,102.077 783.3224,102.3545 778.4364,97.3189 C774.0747,102.6364 770.1425,102.8463 766.6633,96.4332 C765.1631,101.3621 760.155,102.3278 756.7007,98.7115 C753.6686,103.8982 747.9473,103.7589 745.1284,98.4758 C740.6872,102.7007 735.3614,103.0527 733.3881,95.9239 C728.9811,102.5504 725.062,101.5687 720.674,95.9042 C716.3019,99.7904 713.037,99.7219 710.6082,93.8912 C706.9616,98.8178 701.2424,98.0905 698.5743,92.7448 C689.6735,90.9367 689.1712,84.0127 694.5145,78.2225 C686.5618,74.0971 686.4187,67.3788 692.8292,61.7811 C684.8458,56.4984 685.8517,48.6909 695.054,45.8009 C688.5361,38.5651 689.7861,32.941 698.4905,28.7783 " fill="#FEFECE" filter="url(#f7pgzesqqqj01)" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="704.1315" y="49.2657">Store all apis</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="708.1315" y="65.754">configuration</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="708.1315" y="82.2423">by channel</text><!--MD5=[68180f917081af7ea13a4188db3c6e18]
+entity c4--><path d="M300.0957,32.2447 C305.0483,22.5322 314.1971,20.3742 321.3386,29.8173 C329.072,15.8536 338.0062,18.2886 346.4033,29.1471 C354.2798,15.8077 363.6021,14.1199 374.96,25.0507 C384.2855,12.6508 391.9157,13.4559 399.8114,26.45 C403.9981,16.1265 412.5008,10.804 421.7054,21.1296 C428.0838,10.9269 438.2475,7.4195 445.9671,19.6811 C452.7701,6.9428 463.8702,7.2789 471.0894,19.2581 C479.4474,6.0947 489.2389,6 497.094,19.7442 C507.5541,7.3853 515.9427,11.0215 522.13,23.9711 C529.0238,8.8375 542.0583,9.3369 550.1962,22.7478 C559.1166,16.0692 566.8199,16.0951 570.7157,28.2285 C578.9512,16.8189 591.1514,17.86 597.8292,30.0203 C603.6417,17.9163 613.7458,17.7781 621.548,27.8966 C629.5589,15.7625 640.1251,14.8947 646.9962,29.002 C666.8615,35.3148 669.5057,46.5742 656.736,62.4033 C670.9421,75.9105 664.3515,92.0103 646.9507,96.4273 C638.7063,108.6673 627.8636,106.8473 622.0365,94.0244 C615.3203,107.7948 607.5926,106.7934 598.2608,96.6218 C590.3017,107.3144 582.6202,110.3543 573.8265,97.4874 C565.1824,111.3245 556.9481,110.5705 547.6146,98.1762 C540.7105,107.739 530.583,110.3156 524.317,97.5116 C517.6706,110.9266 507.3431,111.682 497.6215,100.905 C487.6443,111.9734 479.4804,114.0549 470.9537,99.4012 C463.2111,110.604 455.0957,109.7865 447.3318,99.4245 C439.8878,108.8032 429.181,108.3756 423.868,97.0137 C415.0588,112.2746 404.5601,108.4957 395.9161,96.842 C388.4021,108.0987 380.2694,108.8068 371.4168,98.3526 C362.1311,109.8217 354.1125,108.7696 347.0108,96.1408 C340.3918,105.6638 330.1907,106.9654 324.7571,94.9179 C316.1506,108.6887 303.7857,106.5131 296.2017,93.8148 C274.9732,91.3509 273.4733,75.2216 284.0636,60.9912 C277.3095,45.9079 281.693,33.2979 300.0957,32.2447 " fill="#FEFECE" filter="url(#f7pgzesqqqj01)" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="257" x="302.6315" y="49.2657">- Listen for messages from the queue</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="256" x="302.6315" y="65.754">and call the API based on the channel</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="336" x="302.6315" y="82.2423">- REST API to manage the different ways to notify</text><!--MD5=[c1d7d910ae26f5831b0de50e0d3a07a4]
+link c2 to gateway--><path d="M131.6315,99.8505 C131.6315,121.8405 131.6315,148.2905 131.6315,165.1805 " fill="none" id="c2-gateway" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:1.0,3.0;"/><!--MD5=[42a306fd19af580684143d9a1db682b9]
+link gateway to queue--><path d="M204.7015,183.2305 C245.1415,183.2305 293.4515,183.2305 325.0315,183.2305 " fill="none" id="gateway-queue" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="231.8815" y="161.7989">Send split</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="226.8815" y="177.1095">notifications</text><!--MD5=[a68c3f36e89ff4c83f364e6948495556]
+link queue to webhook--><path d="M392.1815,183.2305 C403.7615,183.2305 415.3515,183.2305 426.9415,183.2305 " fill="none" id="queue-webhook" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e95d020c7dafbd775b63e01e053209e7]
+link c4 to webhook--><path d="M470.9515,99.8505 C471.1315,121.8405 471.3515,148.2905 471.4915,165.1805 " fill="none" id="c4-webhook" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:1.0,3.0;"/><!--MD5=[287e6a0a21a53281b2e087dc6818b266]
+link webhook to db--><path d="M516.4715,183.2305 C554.3215,183.2305 592.1715,183.2305 630.0215,183.2305 " fill="none" id="webhook-db" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b17a8750ae0da148bd21f634242064a1]
+link c3 to db--><path d="M729.7415,99.8505 C716.8115,119.9105 701.4915,143.6705 690.6315,160.5105 " fill="none" id="c3-db" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:1.0,3.0;"/><!--MD5=[181772df518687227ecd7137d5db11bf]
+link webhook to mail_api--><path d="M426.9215,199.6305 C406.2515,208.1705 382.2115,220.2305 363.6315,235.7305 C342.5915,253.2805 325.3615,280.2605 315.5315,297.7005 " fill="none" id="webhook-mail_api" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="86" x="368.6315" y="249.2989">Call Email API</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="368.6315" y="264.6095">(POST Request)</text><!--MD5=[ee3d7693380fbefaf0168b9f651522a6]
+link mail_api to mail_service--><path d="M290.8815,333.9505 C283.8415,342.4105 275.9515,353.0605 270.6315,363.7305 C260.5915,383.8605 254.5615,409.2305 251.4215,425.7105 " fill="none" id="mail_api-mail_service" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3cff4349f7e6625e0397c14f83b97bd7]
+link webhook to mobile_api--><path d="M471.6315,201.2905 C471.6315,226.3005 471.6315,272.6505 471.6315,297.6705 " fill="none" id="webhook-mobile_api" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="472.6315" y="249.2989">Call Mobile API</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="476.6315" y="264.6095">(POST Request)</text><!--MD5=[dd825acf41839eb54586d64eaa1e5111]
+link mobile_api to mobile_service--><path d="M467.1115,333.9905 C460.7915,358.1105 449.3815,401.6705 443.0915,425.6805 " fill="none" id="mobile_api-mobile_service" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0e0421f05a49c0a35658469a4fad7567]
+link webhook to slack_api--><path d="M516.2415,201.1105 C536.5415,209.8705 560.3015,221.6905 579.6315,235.7305 C604.2715,253.6205 627.5815,280.2605 641.4915,297.5605 " fill="none" id="webhook-slack_api" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="621.1315" y="249.2989">Call Slack API</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="620.6315" y="264.6095">(POST Request)</text><!--MD5=[54d95184363b38bd3e996ce9dcf209b9]
+link slack_api to slack--><path d="M699.8515,331.2105 C717.4715,338.6705 736.7315,349.2905 750.6315,363.7305 C767.4815,381.2405 777.0215,408.2205 781.7615,425.6805 " fill="none" id="slack_api-slack" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[90820d085ae78ba1c7a07d112889bc1b]
+link assets to c1--><path d="M574.6315,461.9205 C574.6315,477.7405 574.6315,501.7905 574.6315,522.2605 " fill="none" id="assets-c1" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:1.0,3.0;"/><!--MD5=[152b76444285606d88a38e954acedf7f]
+link mail_api to assets--><path d="M313.3315,333.9005 C321.4315,352.2605 336.8715,380.7505 359.6315,395.7305 C420.4315,435.7405 450.0115,408.1005 520.6315,425.7305 C526.6415,427.2305 532.9615,429.0205 539.0815,430.8705 " fill="none" id="mail_api-assets" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="103" x="360.6315" y="377.2989">Get email assets</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="387.1315" y="392.6095">if needed</text><!--MD5=[d820a00d427b816d3e79e9696e5db5f4]
+link mobile_api to assets--><path d="M471.6015,333.8205 C472.4115,351.0505 476.0215,377.6305 489.6315,395.7305 C501.8915,412.0405 521.5515,423.4305 538.8815,430.9105 " fill="none" id="mobile_api-assets" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="112" x="490.6315" y="377.2989">Get mobile assets</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="521.6315" y="392.6095">if needed</text><!--MD5=[569b6ca387eca2aaf87a5e233a5f857b]
+link slack_api to assets--><path d="M647.7515,333.7605 C640.7515,350.2405 629.0315,375.6205 615.6315,395.7305 C608.6615,406.1805 599.5915,416.8105 591.7515,425.3105 " fill="none" id="slack_api-assets" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="102" x="635.6315" y="377.2989">Get slack assets</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="661.6315" y="392.6095">if needed</text><!--MD5=[d7bc3eeae1d16b8d4cbe84ddf204d68e]
+@startuml architecture
+skinparam roundCorner 15
+agent "API NOTIFICATION" as gateway
+queue "QUEUE" as queue
+agent "WEBHOOK" as webhook
+agent "EMAIL API" as mail_api
+agent "MOBILE API" as mobile_api
+agent "SLACK API" as slack_api
+' agent "WEB API" as web_api
+agent "EMAIL SERVICE" as mail_service
+agent "MOBILE SERVICE" as mobile_service
+agent "SLACK" as slack
+' agent "BROWSER" as browser
+database "DATABASE" as db
+collections "ASSETS" as assets
+
+cloud c1 as "- Attachments.
+- Templates.
+- Etc."
+
+cloud c2 as "Recieve a list of notifications to 
+send by channel 
+(email, mobile, etc.)"
+
+cloud c3 as "Store all apis \n configuration \n by channel"
+
+cloud c4 as "- Listen for messages from the queue
+and call the API based on the channel
+- REST API to manage the different ways to notify"
+
+c2 ~~ gateway
+gateway - queue : Send split \n notifications
+queue - webhook
+c4 ~~ webhook
+webhook - db
+c3 ~~ db
+webhook - - mail_api : Call Email API \n (POST Request)
+mail_api - - mail_service
+webhook - - mobile_api : Call Mobile API \n (POST Request)
+mobile_api - - mobile_service
+webhook - - slack_api : Call Slack API \n (POST Request)
+slack_api - - slack
+' webhook - - web_api : Call Web API \n (POST Request)
+' web_api - - browser
+assets ~~ c1
+mail_api - - assets : Get email assets \n if needed
+mobile_api - - assets : Get mobile assets \n if needed
+slack_api - - assets : Get slack assets \n if needed
+' web_api - - assets : Get web assets \n if needed
+
+@enduml
+
+@startuml architecture
+skinparam roundCorner 15
+agent "API NOTIFICATION" as gateway
+queue "QUEUE" as queue
+agent "WEBHOOK" as webhook
+agent "EMAIL API" as mail_api
+agent "MOBILE API" as mobile_api
+agent "SLACK API" as slack_api
+agent "EMAIL SERVICE" as mail_service
+agent "MOBILE SERVICE" as mobile_service
+agent "SLACK" as slack
+database "DATABASE" as db
+collections "ASSETS" as assets
+
+cloud c1 as "- Attachments.
+- Templates.
+- Etc."
+
+cloud c2 as "Recieve a list of notifications to 
+send by channel 
+(email, mobile, etc.)"
+
+cloud c3 as "Store all apis \n configuration \n by channel"
+
+cloud c4 as "- Listen for messages from the queue
+and call the API based on the channel
+- REST API to manage the different ways to notify"
+
+c2 ~~ gateway
+gateway - queue : Send split \n notifications
+queue - webhook
+c4 ~~ webhook
+webhook - db
+c3 ~~ db
+webhook - - mail_api : Call Email API \n (POST Request)
+mail_api - - mail_service
+webhook - - mobile_api : Call Mobile API \n (POST Request)
+mobile_api - - mobile_service
+webhook - - slack_api : Call Slack API \n (POST Request)
+slack_api - - slack
+assets ~~ c1
+mail_api - - assets : Get email assets \n if needed
+mobile_api - - assets : Get mobile assets \n if needed
+slack_api - - assets : Get slack assets \n if needed
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 13:16:42 CLST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CL
+--></g></svg>

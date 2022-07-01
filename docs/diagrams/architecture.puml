@@ -1,0 +1,46 @@
+@startuml architecture
+skinparam roundCorner 15
+agent "API NOTIFICATION" as gateway
+queue "QUEUE" as queue
+agent "WEBHOOK" as webhook
+agent "EMAIL API" as mail_api
+agent "MOBILE API" as mobile_api
+agent "SLACK API" as slack_api
+agent "EMAIL SERVICE" as mail_service
+agent "MOBILE SERVICE" as mobile_service
+agent "SLACK" as slack
+database "DATABASE" as db
+collections "ASSETS" as assets
+
+cloud c1 as "- Attachments.
+- Templates.
+- Etc."
+
+cloud c2 as "Recieve a list of notifications to 
+send by channel 
+(email, mobile, etc.)"
+
+cloud c3 as "Store all apis \n configuration \n by channel"
+
+cloud c4 as "- Listen for messages from the queue
+and call the API based on the channel
+- REST API to manage the different ways to notify"
+
+c2 ~~ gateway
+gateway - queue : Send split \n notifications
+queue - webhook
+c4 ~~ webhook
+webhook - db
+c3 ~~ db
+webhook -- mail_api : Call Email API \n (POST Request)
+mail_api -- mail_service
+webhook -- mobile_api : Call Mobile API \n (POST Request)
+mobile_api -- mobile_service
+webhook -- slack_api : Call Slack API \n (POST Request)
+slack_api -- slack
+assets ~~ c1
+mail_api -- assets : Get email assets \n if needed
+mobile_api -- assets : Get mobile assets \n if needed
+slack_api -- assets : Get slack assets \n if needed
+
+@enduml
